@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://conwayplumbingco.com/sitemap.xml
